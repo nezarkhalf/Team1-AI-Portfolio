@@ -1,4 +1,5 @@
 # -Team1-AI-Portfolio
+
 Applied AI &amp; Robotics portfolio
 
 Research Assistant Agent (Group Project)
@@ -17,9 +18,14 @@ Hayden Wood
 
 Nezar Khalfallah
 
+
+
 This folder contains the code and related files for our Research Assistant Agent project.
 
-Project Overview
+
+
+Project Overview:
+
 
 This project implements an AI powered research assistant that:
 
@@ -35,7 +41,9 @@ Uses a fallback mechanism when search tools fail
 
 The system uses external tools, a memory system, summarization model, and safety controls to generate structured research reports.
 
-Technologies Used
+
+
+Technologies Used:
 
 Python
 
@@ -49,7 +57,9 @@ Wikipedia API
 
 Gradio UI
 
-Features
+
+
+Features:
 
 
 ✔️ Web search
@@ -66,7 +76,10 @@ Features
 
 ✔️ Web-based interface
 
-How to Run
+
+
+
+How to Run:
 
 Upload the notebook to Google Colab and install dependencies:
 
@@ -74,7 +87,9 @@ pip install duckduckgo-search transformers gradio wikipedia
 
 Run all cells, then open the Gradio link to access the interface.
 
-Files in this Folder
+
+
+Files in this Folder:
 
 Code (.ipynb)
 
@@ -82,6 +97,9 @@ HTML export
 
 Supporting files
 
-Notes
+
+
+
+Notes:
 
 This project is part of the final capstone assignment for ITAI2376 at HCC.
